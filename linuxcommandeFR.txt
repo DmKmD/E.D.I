@@ -1,0 +1,132 @@
+> (chevron) 	     Commande de redirection.
+adduser 	         Créer un compte user.
+alias 	             Création de raccourcis pour les lignes de commande
+apt-get 	         Commande pour la gestion des paquets
+aptitude 	         Commande préférentiel pour la gestion des paquets
+awk 	             awk est un parseur (parseur : nm (linguistique informatique) analyseur syntaxique qui étiquette les mots d'un texte) très efficacement.
+cal 	             Affichage d'un calendrier.
+cat 	             Concaténer (rassembler à la suite les uns des autres) des fichiers et les afficher sur la sortie standard.
+cd 	                 Permet de changer le répertoire de travail, dans le système de fichier.
+cdparanoia 	         Permet l'extraction depuis un CD audio.
+cfdisk 	             Pour créer ou modifier la table des partitions
+chage 	             Modifier les informations de validité d'un mot de passe.
+chfn 	             Indique des informations sur les utilisateurs
+chmod 	             Gère la distribution des droits d'un fichier
+chown 	             Gérer la propriété d'un fichier.
+cowsay 	             Mettez une vache dans votre console.
+cp 	                 Permet de copier fichier ou répertoire
+cut 	             Recherche par section délimitée dans un fichier
+dar 	             Sauvegarder, archiver, compresser
+dd 	                 Permet de lire une partie d'un fichier et de l'écrire à un emplacement donné dans un autre fichier.
+df 	                 Indique l'espace occupé sur les systèmes de fichiers.
+dmesg 	             Affiche le tampon des messages du noyau.
+du 	                 Connaître l'utilisation disque en kilo-octet
+dumpe2fs 	         Affiche des informations sur le système de fichier.
+dvdauthor 	         la création de dvd pour lecteur de salon. Facile !
+e2label 	         Renommer ses partitions.
+echo 	             Affiche du texte / des variables d'environnement sur la sortie standard.
+eject 	             Gestion des périphériques (CDRom…) en ligne de commande
+evince 	             Visionner des pdf
+exiftran 	         Rotation automatique des photos dans un répertoire.
+expand 	             Remplacer les tabulations par des espaces.
+feh 	             Visualiseur d'images très léger.
+fdisk 	             Pour créer ou modifier la table des partitions
+ffmpeg 	             L'encodage vidéo en ligne de commande. Super !
+find 	             Pour rechercher des fichiers et leur appliquer un éventuel traitement.
+fsck 	             Permet d'examiner et de réparer des partitions.
+genisoimage 	     Pour convertir un fichier ou un répertoire en ISO
+grep 	             Afficher les lignes correspondant à un motif donné.
+groupadd 	         Création d’un groupe.
+groupdel 	         Suppression d’un groupe.
+groupmod 	         Pour modifier un groupe du système
+growisofs 	         GRAVURE - Graver un fichier ISO
+head 	             Pour lire les n (nombre) premières lignes d'un fichier
+history 	         Pour visualiser l’ensemble des commandes que vous avez saisies dans votre console
+hwinfo 	             Commande pour connaître les caractéristiques de son matériel !
+id 	                 Permet de lire les group où un user est attaché.
+ifconfig 	         Permet de configurer les interfaces réseaux de la machine
+iftop 	             Pour afficher des informations en continu sur l'activité du système et le réseau
+ifup et ifdown 	     Pour configurer ou déconfigurer l'activité du réseau
+ip                   Pour afficher des informations en continu sur l'activité du système et le réseau
+imagemagick 	     Modifie,converti, encadre, titre, … les images numériques
+info 	             Commande équivalente à man, plus complète et en anglais avec une navigation par lien (noeud)
+invoke-rc.d 	     commande pour gérer les services1) de votre système,
+kill 	             Pour envoyer un signal à un processus en connaissant son PID.
+less 	             Pager, pour afficher le contenu d'un fichier
+ln 	                 Pour créer des liens dans le système de fichier.
+locate 	             Recherche indexée de fichiers ou répertoires.
+ls 	                 Lister répertoires et fichiers
+lshw 	             commande qui affiche des informations détaillées sur les périphériques d'un ordinateur
+lsmod 	             Pour connaître les modules chargés dans le noyau.
+lspci 	             Pour connaître la liste du matériel (cartes, chipsets etc.) de votre PC
+lsusb 	             lsusb permet d'afficher des informations relatives aux bus USB et aux périphériques qui y sont connectés.
+man 	             Manuel d'information pour les commandes disponibles
+mencoder 	         la vidéo en ligne de commande. Puissant !
+midnight commander 	 Un gestionnaire de fichier en mode console
+mkdir 	             Pour créer un dossier
+mkfs 	             Pour formater une partition…
+mmv 	             Pour déplacer ou renommer un fichier ou un répertoire en série
+modprobe 	         Pour charger ou de décharger un module
+more 	             Pager, pour afficher le contenu d'un fichier
+most 	             Pager, pour afficher le contenu d'un fichier
+mount 	             Permet de monter une partition
+mv 	                 Pour déplacer ou renommer un fichier ou un répertoire
+nano 	             Petit éditeur de texte en console
+ncal 	             Affichage d'un calendrier.
+netstat 	         Statistiques sur les interfaces réseau actives
+nmap 	             Pour savoir quels sont les ports ouverts de votre réseaux afin de les sécuriser
+nohup 	             Pour maintenir active une commande lancée dans un terminal.
+ntop 	             Pour surveiller votre réseau
+passwd 	             Pour la gestion des mots de passe
+pdftk 	             Pour modifier les fichiers pdf
+ping 	             Pour tester la connectivité de la machine au réseau
+pmount 	             Pour gérer les clés et autres partitions externes.
+ps 	                 Voilà une commande pour connaître ce qui tourne sur votre bécane… et un peu plus encore !
+pstree 	             Arborescence des processus en cours
+pwd 	             Affiche le dossier de travail actuel du shell.
+quota 	             Les quotas permettent à l’administrateur de limiter l’espace disque des utilisateurs
+rehash 	             Rafraîchir le Terminal
+rm 	                 Pour efface des fichiers ou des répertoires
+rmdir 	             Pour effacer des répertoires vides
+rename 	             Pour renommer des fichiers
+rsync 	             Sauvegarder par copies vos données.
+scp 	             Pour transférer des documents d'un PC à un autre sur le réseau
+screen 	             Commande permettant de créer différents terminaux à l'intérieur d'un seul.
+script 	             Enregistrer vos lignes de commande
+scrot 	             Imprime l'écran en ligne de commande totalement configurable !
+sed 	             Commande d'édition en ligne.
+service 	         Commande de gestion des services de votre système.
+sfdisk 	             Pour créer ou modifier la table des partitions
+shutdown 	         Pour éteindre le système ou le redémarrer
+sleep 	             Pour demander au script en cours de dormir pendant un laps de temps donné.
+smartmontools 	     Rechercher des blocs défectueux sur un périphérique.
+snort 	             Détecteur d'intrusion
+split 	             Pour découper des archives .tar (dite : ”la Landru du tar…”)
+ssh 	             Protocole qui permet d'établir une connexion avec un autre PC
+sshfs 	             Pour monter un PC distant dans vos répertoires
+su 	                 Pour passer en root, super utilisateur !
+tail 	             Pour lire les n (nombre) dernières lignes d'un fichier.
+tar, rar 	         Compression, archivage…
+tmux 	             C'est mon premier test :) .
+top 	             Pour afficher des informations en continu sur l'activité du système
+touch 	             Pour créer un fichier
+traceroute 	         Liste des routeurs entre la machine sur laquelle on lance la commande et la machine cible
+tree 	             Afficher l'arborescence de vos répertoires.
+tune2fs 	         Ajuste les paramètres des systèmes de fichiers ext2/ext3/ext4.
+umask 	             Création des droits automatique
+udisks 	             Pour gérer les clés et autres partitions externes.
+umount 	             Pour démonter une partition
+uname 	             Affiche les informations sur votre noyau
+useradd 	         Pour créer un utilisateur
+userdel 	         Pour supprimer un compte utilisateur
+usermod 	         Pour modifier un compte utilisateur
+vdir 	             Lister avec détails les répertoires et fichiers
+vi 	                 Éditeur en console de base
+vim 	             Éditeur en console de geek
+wc 	                 Afficher le nombre de lignes, de mots et d’octets d’un fichier.
+wget 	             Commande de téléchargement en ligne de commande.
+which 	             Trouve un fichier dans le PATH.
+who 	             (who ou w) Qui est connecté sur son pc ?
+whoami 	             Pour savoir sous quel utilisateur nous sommes
+wodim 	             Pour graver et répertorier l'emplacement et le nom de nos lecteurs/graveurs
+wvdial 	             Numéroteur PPP intelligent 
